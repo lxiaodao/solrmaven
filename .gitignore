@@ -1,0 +1,12 @@
+# Ignore eclipse config
+
+
+
+/.settings
+.classpath
+/target
+/build
+/dist
+*.bak
+.classpath
+.project
